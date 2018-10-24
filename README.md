@@ -1,2 +1,0 @@
-# cici
-one test program
